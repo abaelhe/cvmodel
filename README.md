@@ -1,2 +1,2 @@
 # cvmodel
-OpenCV Model
+compilation of Open-Sourced OpenCV Model codes.
